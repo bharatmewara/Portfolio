@@ -123,6 +123,11 @@ html{
     font-weight: 600;
     margin-left: -3px;
 }
+
+.home .home-content .text-2 span{
+    color: #530e80;
+}
+
 .home .home-content .text-3{
     font-size: 40px;
     margin-top: 5px 0;
