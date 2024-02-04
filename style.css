@@ -104,7 +104,6 @@ html{
 /* Home section styling */
 .home{
     display: flex;
-    background: url(/images/banner.jpg) no-repeat;
     height: 100vh;
     color: #fff;
     min-height: 500px;
